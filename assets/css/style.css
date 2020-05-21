@@ -1,17 +1,14 @@
-#left-container {
-  position: absolute;
-  top: 3%;
-  left: 8%;
-  font-family: 'Patrick Hand SC', cursive;
-  font-size: 25px;
+body {
+  background: #F5F5F3;
 }
 
-#right-container {
+#header-container {
   position: absolute;
   top: 3%;
   right: 8%;
   font-family: 'Patrick Hand SC', cursive;
   font-size: 25px;
+  color: #4B5842
 }
 
 #welcome-container {
