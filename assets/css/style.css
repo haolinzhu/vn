@@ -1,0 +1,28 @@
+#left-container {
+  position: absolute;
+  top: 3%;
+  left: 8%;
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 25px;
+}
+
+#right-container {
+  position: absolute;
+  top: 3%;
+  right: 8%;
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 25px;
+}
+
+#welcome-container {
+  position: absolute;
+  width: 350px;
+  top: 35%;
+  left: 15%;
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+
+.text{
+  margin-bottom: 20px;
+}
